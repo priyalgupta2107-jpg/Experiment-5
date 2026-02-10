@@ -14,21 +14,14 @@
 4.Search in dictionary.  
 5.Display marks and stop.  
 
-## Q3. User login validation:
+## Q3.User login validation:
 1.Start.  
 2.Create username–password dictionary.  
 3.Input login details.  
 4.Verify credentials.  
 5.Display result and stop.  
 
-## Q4.User login validation:
-1.Start.  
-2.Create username–password dictionary.  
-3.Input login details.  
-4.Verify credentials.  
-5.Display result and stop.  
-
-## Q5. Highest marks:
+## Q4. Highest marks:
 1.Start.  
 2.Create marks dictionary.  
 3.Find maximum value.  
