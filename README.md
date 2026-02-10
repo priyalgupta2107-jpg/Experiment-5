@@ -36,7 +36,14 @@
 5.Display result and stop.  
 
 ## Theory:
-A dictionary is a data structure that stores information in key–value pairs, where keys are unique and values can be modified. Dictionary values can be updated by accessing the key and assigning a new value using the assignment operator. Searching in a dictionary is done using the get() method or the in keyword to check whether a key exists. Conditional statements such as if–else are used to control the flow of the program. Built-in functions like max() help in finding the highest value in a dictionary. The input() function is used to accept data from the user, making the program interactive and efficient.
+A dictionary is a data structure that stores information in key–value pairs, where keys are unique and values can be modified. Dictionary values can be updated by accessing the key and assigning a new value using the assignment operator. Searching in a dictionary is done using the get() method or the in keyword to check whether a key exists.   
+a)The in keyword is used to check whether a key exists in the dictionary.    
+b)New elements can be added using methods like update().    
+c)Elements can be removed using pop() or the del keyword.   
+d)Searching for a key can be done using the get() method.    
+e)Dictionaries can be traversed using for loops to access keys, values, or both.   
+f)The input() function allows user input, making programs interactive and flexible.   
+g)Dictionaries improve efficiency and readability in data handling.   
 ## Conclusion:
 Thus, the program effectively demonstrates the use of dictionaries, conditional statements, built-in functions, and user input in Python.   
 These concepts help in organizing data, performing updates and searches, and making programs interactive and efficient.  
